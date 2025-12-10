@@ -1,5 +1,6 @@
 <h3>Hi, I'm Pinyuan Li 👋 <img src="https://komarev.com/ghpvc/?username=BrandeisPatrick&color=blueviolet&style=flat-square" alt="Profile Views" align="right"/></h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=36BCF7&width=350&lines=ML+Researcher+%7C+AI+for+Science;Explainable+AI+%7C+Protein+Models;Deep+Learning+%7C+Computational+Chemistry)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=36BCF7&width=350&lines=ML+Researcher+%7C+AI+for+Science;Explainable+AI+%7C+Protein+Models;Deep+Learning+%7C+Computational+Chemistry" alt="Typing SVG" /></a>
 
 **About** · ML Researcher at Emory University working on explainable AI for protein models (AlphaFold) and ML-driven chemical compound analysis. NSF-funded research in AI4Science.
 
