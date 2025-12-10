@@ -87,7 +87,7 @@ Passionate about applying **AI** and **computational chemistry** to solve biolog
 
 ## 📫 Let's Connect!
 - 📧 Email: [EmoryPatrick@outlook.com](mailto:EmoryPatrick@outlook.com)  
-- 🔗 LinkedIn: [linkedin.com/in/PatrickLi](https://linkedin.com/in/PatrickLi)  
+- 🔗 LinkedIn: [linkedin.com/in/patrick-pinyuan-li](https://www.linkedin.com/in/patrick-pinyuan-li/)  
 - 🖥 GitHub: [github.com/BrandeisPatrick](https://github.com/BrandeisPatrick)  
 
 ---
